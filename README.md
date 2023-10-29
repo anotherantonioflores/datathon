@@ -7,4 +7,5 @@
 
 <img width="956" alt="image" src="https://github.com/anotherantonioflores/datathon/assets/142627056/a38b714c-a36b-4690-968c-8b361fca7ddc">
 
+<img width="191" alt="image" src="https://github.com/anotherantonioflores/datathon/assets/142627056/3779a40c-0105-4350-8130-5f02ebf6d19c">
 
